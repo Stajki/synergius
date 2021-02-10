@@ -1,5 +1,0 @@
-<?php $owners_name= 'RITPRO Robert Walaszczyk'; $owners_nip= '948-21-58-111'; $license_date= '2045-02-28'; $new_version_available= '2022-02-10'; $demo= false; $users_limit= 5; $uid = array (
-  0 => '#146',
-  1 => '#38',
-  2 => '#88',
-); $md5='20b1164261f998c4780cba46e1191117'; $license_type= 'synergius'; ?>
